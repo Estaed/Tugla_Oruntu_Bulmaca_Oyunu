@@ -20,7 +20,7 @@ public class QuestionsData : MonoBehaviour
         {
             _questionText.text = string.Empty;
             ClearQuestion();
-            SceneManager.LoadScene("MainMenu");
+            SceneManager.LoadScene("EndScene");
             return;
         }
 
