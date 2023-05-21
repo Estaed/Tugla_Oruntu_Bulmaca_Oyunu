@@ -23,9 +23,9 @@ Bu projenin konusu olan karta <a href="https://github.com/Estaed/Tugla_Oruntu_Bu
 - İşlem yapma yeteneklerini geliştirmek için güçlendirmeler
 - Sonuç ekranıyla analiz
 ## Prototip
-<a href="https://drive.google.com/file/d/1ZXmD_QHckE1lb_sClunA5c7JuqGhigX1/view?usp=share_link" target="_blank" onclick="window.open('https://drive.google.com/file/d/1ZXmD_QHckE1lb_sClunA5c7JuqGhigX1/view?usp=share_link'); return false;">Prototipi indirmek için tıklayın</a>
+<a href="https://drive.google.com/" target="_blank" onclick="window.open('https://drive.google.com/'); return false;">Prototipi indirmek için tıklayın</a>
 ## Video
-<a href="https://drive.google.com/file/d/1t55dxM5EHKcoJScgib2s8KpGKDxrmkSb/view?usp=sharing" target="_blank" onclick="window.open('https://drive.google.com/file/d/1t55dxM5EHKcoJScgib2s8KpGKDxrmkSb/view?usp=sharing'); return false;">Tanıtım için tıklayın</a> 
+<a href="https://drive.google.com/" target="_blank" onclick="window.open('https://drive.google.com/'); return false;">Tanıtım için tıklayın</a> 
 # Dökümanlar
 Bu projenin gerekli dökümantasyonuna <a href="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Zaman%C3%87izelgesi.pdf" target="_blank" onclick="window.open('https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Zaman%C3%87izelgesi.pdf'); return false;">buraya tıklayarak</a> erişebilirsiniz
 ### Oyun içerisinden görüntüler
