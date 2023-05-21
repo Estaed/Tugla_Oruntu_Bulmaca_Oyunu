@@ -23,7 +23,7 @@ Bu projenin konusu olan karta <a href="https://github.com/Estaed/Tugla_Oruntu_Bu
 - İşlem yapma yeteneklerini geliştirmek için güçlendirmeler
 - Sonuç ekranıyla analiz
 ## Prototip
-<a href="https://drive.google.com/" target="_blank" onclick="window.open('https://drive.google.com/'); return false;">Prototipi indirmek için tıklayın</a>
+<a href="https://drive.google.com/file/d/1kfsnVByRi6Gb2CcTZFhC94Qv4WNwpXLY/view?usp=share_link" target="_blank" onclick="window.open('https://drive.google.com/file/d/1kfsnVByRi6Gb2CcTZFhC94Qv4WNwpXLY/view?usp=share_link'); return false;">Prototipi indirmek için tıklayın</a>
 ## Video
 <a href="https://drive.google.com/" target="_blank" onclick="window.open('https://drive.google.com/'); return false;">Tanıtım için tıklayın</a> 
 # Dökümanlar
