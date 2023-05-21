@@ -6,9 +6,9 @@ Bu proje, Tarık Bulut tarafından Fırat Üniversitesi Yazılım Mühendisliği
 - C#
 ## PROJE KONUSU OLAN KART
 <p align="left">
-  <img src="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Card.PNG" alt="Açıklama"  />
+  <img src="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Assets/Graphics/Card.PNG" alt="Açıklama"  />
 </p>
-Bu projenin konusu olan karta <a href="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Card.PNG" target="_blank" onclick="window.open('https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Card.PNG'); return false;">buraya tıklayarak</a> erişebilirsiniz
+Bu projenin konusu olan karta <a href="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Assets/Graphics/Card.PNG" target="_blank" onclick="window.open('https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Assets/Graphics/Card.PNG'); return false;">buraya tıklayarak</a> erişebilirsiniz
 
 
 ## Oyun amacı
@@ -29,4 +29,4 @@ Bu projenin konusu olan karta <a href="https://github.com/Estaed/Tugla_Oruntu_Bu
 # Dökümanlar
 Bu projenin gerekli dökümantasyonuna <a href="https://github.com/DogukanOzcn/kartoyunu/tree/main/Ger%C3%A7ek%20Yetenek%20D%C3%B6k%C3%BCmanlar" target="_blank" onclick="window.open('https://github.com/DogukanOzcn/kartoyunu/tree/main/Ger%C3%A7ek%20Yetenek%20D%C3%B6k%C3%BCmanlar'); return false;">buraya tıklayarak</a> erişebilirsiniz
 ### Oyun içerisinden görüntüler
-<img src="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/ss1.PNG" alt="Ana Menü Ekran Görüntüsü" width="200"> <img src="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/ss2.PNG" alt="Hikaye Ekran Görüntüsü" width="200"> <img src="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/ss3.PNG" alt="Doğru/Yanlış Ekran Görüntüsü" width="200"> <img src="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/ss4.PNG" alt="Oyun Sonu Ekran Görüntüsü" width="200"> 
+<img src="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Assets/Graphics/ss1.PNG" alt="Ana Menü Ekran Görüntüsü" width="200"> <img src="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Assets/Graphics/ss2.PNG" alt="Hikaye Ekran Görüntüsü" width="200"> <img src="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Assets/Graphics/ss3.PNG" alt="Doğru/Yanlış Ekran Görüntüsü" width="200"> <img src="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Assets/Graphics/ss4.PNG" alt="Oyun Sonu Ekran Görüntüsü" width="200"> 
