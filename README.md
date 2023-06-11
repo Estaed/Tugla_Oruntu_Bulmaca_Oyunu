@@ -25,7 +25,7 @@ Bu projenin konusu olan karta <a href="https://github.com/Estaed/Tugla_Oruntu_Bu
 ## Prototip
 <a href="https://drive.google.com/file/d/1kfsnVByRi6Gb2CcTZFhC94Qv4WNwpXLY/view?usp=share_link" target="_blank" onclick="window.open('https://drive.google.com/file/d/1kfsnVByRi6Gb2CcTZFhC94Qv4WNwpXLY/view?usp=share_link'); return false;">Prototipi indirmek için tıklayın</a>
 ## Video
-<a href="https://drive.google.com/" target="_blank" onclick="window.open('https://drive.google.com/'); return false;">Tanıtım için tıklayın</a> 
+<a href="https://drive.google.com/file/d/1q31BpFUJ02M2CgMEDjsTiluWnw7qifyd/view?usp=sharing" target="_blank" onclick="window.open('https://drive.google.com/file/d/1q31BpFUJ02M2CgMEDjsTiluWnw7qifyd/view?usp=sharing'); return false;">Tanıtım için tıklayın</a> 
 # Dökümanlar
 Bu projenin gerekli dökümantasyonuna <a href="https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Zaman%C3%87izelgesi.pdf" target="_blank" onclick="window.open('https://github.com/Estaed/Tugla_Oruntu_Bulmaca_Oyunu/blob/main/Zaman%C3%87izelgesi.pdf'); return false;">buraya tıklayarak</a> erişebilirsiniz
 ### Oyun içerisinden görüntüler
